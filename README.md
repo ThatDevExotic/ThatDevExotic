@@ -1,41 +1,17 @@
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-3/711667952088383558.png" height="1000px"/></a></p>
+# Hey there, welcome to my profile 👋
 
-## #️⃣ Tools & Languages
+<a href="https://app.daily.dev/MystPi"><img src="https://github.com/MystPi/MystPi/blob/main/devcard.svg" width="200" alt="MystPi's Dev Card" align="right"/></a>
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.electronjs.org/"> <img style="width: 40px; height: 40px; position: relative; top: -15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png?20190331235051"/> </a>
-</p>
+**I'm MystPi** - I love creating things with JavaScript and Python, exploring new open source projects, and tinkering with Raspberry Pi.
 
-<br/>
+![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,raspberrypi,react,tailwind)
 
-<p align="center">
-    <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rePatchDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 Stats
-
-  <br/>
-    <a><img src="https://github-readme-stats.vercel.app/api?username=rePatchDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rePatchDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a><img src="https://activity-graph.herokuapp.com/graph?username=rePatchDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://discord.gg/eVr5Qn3H3N"><img src="https://img.icons8.com/color/discord"/></a>
-</p>
+### [Daily.dev](https://daily.dev) Recent Bookmarks
+<!-- daily.dev BOOKMARKS:START -->
+- [Declarative Shadow DOM](https://app.daily.dev/posts/XAZn7u9Gc?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Build Apps in Deno with Frameworks such as React, Vue, Express, and more.](https://app.daily.dev/posts/mBCFYjl0l?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [The Math Behind Nesting Rounded Corners](https://app.daily.dev/posts/cJir_J7zT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [The evolution of scalable CSS](https://app.daily.dev/posts/jMMUdJn-i?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Your next smart home device is a $30 used Kindle](https://app.daily.dev/posts/NiQdI6pxs?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+<!-- daily.dev BOOKMARKS:END -->
