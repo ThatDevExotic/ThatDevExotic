@@ -1,4 +1,4 @@
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/502553212801515520.png" height="1000px"/></a></p>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/711667952088383558.png" height="1000px"/></a></p>
 
 ## #️⃣ Tools & Languages
 
