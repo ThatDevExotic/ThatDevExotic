@@ -1,6 +1,5 @@
 # Hey there, welcome to my profile 👋
 
-**I'm rePatchDev** - I love creating things with JavaScript and Python, exploring new open source projects, and tinkering with Raspberry Pi.
+**I'm rePatchDev** - I love creating things with JavaScript and Python, exploring new open source projects, and tinkering with Raspberry Pi. ![Website](https://site.repatchdev.repl.co/#)
 
 ![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,raspberrypi,react,tailwind,rust,c)
-![Website](https://site.repatchdev.repl.co/)
